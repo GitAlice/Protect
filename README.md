@@ -1,0 +1,2 @@
+# Protect
+Only read Linux
